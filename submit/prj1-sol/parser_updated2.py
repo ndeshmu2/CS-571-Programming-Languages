@@ -1,5 +1,5 @@
 import json
-import re
+
 
 def checkcharacter(ch):
     c = ch.isalpha()
